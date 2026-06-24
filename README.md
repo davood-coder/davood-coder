@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Davood%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Craftsman&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Davood%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20App%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -148,44 +148,31 @@ const davood = {
 
 ---
 
-## 🌐 Let's Connect!
+<h2>My Socials &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"/></h2>
 
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="middle" align="center" width="55%">
-
-<a href="https://www.linkedin.com/in/davood-khan" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/davood-coder" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<a href="https://www.linkedin.com/in/davood-khan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/davood-coder">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;&nbsp;
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=davood-coder&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
 
-</td>
-<td valign="middle" align="center" width="45%">
-
-<img src="https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="280" alt="Connect GIF"/>
-
-</td>
-</tr>
-</table>
-
-</div>
+<br/><br/>
+<em><b>I love connecting with different people</b> — if you want to say hi, I'll be happy to meet you! 😊</em>
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> 
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2NzdWd6aHNqN3VsdTRuanQ5eXcxamxpcDhzZjVnamF1NWJ1OXdxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="480" alt="Night Coder Cartoon GIF"/>
+
 <br/>
-<em><b>I love connecting with different people</b> — if you'd like to say hi, I'd be happy to connect! 😊</em>
+
+> *"While the world sleeps, the night coder ships."* — **Davood Khan**
 
 </div>
 
