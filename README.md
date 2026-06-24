@@ -14,28 +14,70 @@
 
 <br/>
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-```yaml
-name: Davood Khan
-handle: davood-coder
-status: Always building something cool 🚀
-focus: Clean code & great user experiences
-passion: Turning complex problems into simple solutions
-fun_fact: I debug with coffee ☕ and determination 💪
-```
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="55%">
+
+### 👨‍💻 Who Am I?
+
+> *"Code is not just instructions for machines — it's a craft, a conversation, and a creative act."*
+
+I'm **Davood Khan**, a passionate developer who thrives at the intersection of **clean architecture** and **beautiful user experiences**. I don't just write code — I engineer solutions that scale, breathe, and last.
 
 <br/>
 
-- 🔭 Currently working on exciting projects
-- 🌱 Always learning new technologies
-- 💡 Love open-source contributions
-- 🎯 Goal: Build products that make a difference
-- ⚡ Fun fact: The best code is no code — but when code is needed, make it clean!
+### 🚀 What I Do
 
-<br clear="right"/>
+| | |
+|---|---|
+| 🔭 | Building impactful projects end-to-end |
+| 🌱 | Deep-diving into system design & cloud |
+| 💡 | Contributing to open-source communities |
+| 🎯 | Crafting products users actually love |
+| 🤝 | Collaborating with devs across the globe |
+
+<br/>
+
+### ⚡ Dev Philosophy
+
+```javascript
+const davood = {
+  code:      ["Clean", "Scalable", "Purposeful"],
+  mindset:   "Growth-oriented, always curious",
+  approach:  "Think deeply → Build fast → Refine relentlessly",
+  currentlyLearning: ["System Design", "Cloud Architecture"],
+  funFact:   "My best ideas come at 2 AM ☕🌙"
+};
+```
+
+</td>
+<td valign="top" align="center" width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding GIF" style="border-radius: 12px;"/>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=davood-coder&label=Visitors&color=7C3AED&style=flat-square)
+
+<br/>
+
+```text
+⏰ Early Bird  🌙 Night Owl
+████████████░░░░  75% Night Coder
+
+🧠 Problem Solving   ████████████  ⭐⭐⭐⭐⭐
+🎨 UI / UX Design    █████████░░░  ⭐⭐⭐⭐
+🔧 Backend Systems   ██████████░░  ⭐⭐⭐⭐⭐
+🚀 DevOps / Cloud    ████████░░░░  ⭐⭐⭐⭐
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -110,6 +152,10 @@ fun_fact: I debug with coffee ☕ and determination 💪
 
 <div align="center">
 
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="middle" align="center" width="55%">
+
 <a href="https://www.linkedin.com/in/davood-khan" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -121,6 +167,15 @@ fun_fact: I debug with coffee ☕ and determination 💪
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=davood-coder&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
+
+</td>
+<td valign="middle" align="center" width="45%">
+
+<img src="https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="280" alt="Connect GIF"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
