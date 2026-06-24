@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Davood khan+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Turning+ideas+into+elegant+code+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Davood+khan%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Turning+ideas+into+elegant+code+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
 
 </div>
 
@@ -114,7 +114,7 @@ const davood = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davood-coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davood-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davood-coder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff"/>
 
